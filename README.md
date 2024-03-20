@@ -123,9 +123,6 @@ npm run dev
 
 
 
-![Screenshot from 2024-03-20 15-34-05](https://github.com/Mufsh/recruita/assets/80107839/1a72fd77-f5f3-47b7-8dcd-5068969e6162)
-
-
 ![Screenshot from 2024-03-21 00-27-40](https://github.com/Mufsh/recruita/assets/80107839/7f3759ff-30b1-4b08-8c34-c7c57f60b01b)
 
 
@@ -151,8 +148,10 @@ npm run dev
 
 ![Screenshot from 2024-03-21 00-33-26](https://github.com/Mufsh/recruita/assets/80107839/8a365d52-6275-477e-8fd6-c585dfae99cf)
 
+![Screenshot from 2024-03-21 00-42-25](https://github.com/Mufsh/recruita/assets/80107839/4ad0dbe6-5049-41ae-bece-88aa8017ceb3)
 
 
+![Screenshot from 2024-03-21 00-42-46](https://github.com/Mufsh/recruita/assets/80107839/d392c37e-b0ce-43f7-892a-905130d19c22)
 
 
 
