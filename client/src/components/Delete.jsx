@@ -19,7 +19,7 @@ const Delete = () => {
     setEmailError(false);
     alert("Delete candidate record with email " + formData.email + "?");
     try {
-      const response = await fetch("http://localhost:9876/api/delete", {
+      const response = await fetch("https://recruita.onrender.com/api/delete", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

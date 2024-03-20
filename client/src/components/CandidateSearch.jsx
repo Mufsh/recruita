@@ -16,7 +16,7 @@ const CandidateSearch = ({ onCandidateFound , setCandidate}) => {
     }
     setEmailError(false);
     try {
-      const response = await fetch("http://localhost:9876/api/search", {
+      const response = await fetch("https://recruita.onrender.com/api/search", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

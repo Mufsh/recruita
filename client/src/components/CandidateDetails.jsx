@@ -14,7 +14,7 @@ const CandidateDetails = ({ candidate }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch("http://localhost:9876/api/update", {
+      const response = await fetch("https://recruita.onrender.com/api/update", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

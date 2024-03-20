@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 
 const ViewAll = () => {
@@ -7,12 +6,15 @@ const ViewAll = () => {
   useEffect(() => {
     const fetchCandidates = async () => {
       try {
-        const response = await fetch("http://localhost:9876/api/viewall", {
-          method: "GET",
-          headers: {
-            "Content-Type": "application/json",
-          },
-        });
+        const response = await fetch(
+          "https://recruita.onrender.com/api/viewall",
+          {
+            method: "GET",
+            headers: {
+              "Content-Type": "application/json",
+            },
+          }
+        );
 
         const data = await response.json();
         console.log("data: " + data);

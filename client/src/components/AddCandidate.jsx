@@ -25,7 +25,7 @@ const AddCandidate = () => {
     }
     setEmailError(false);
     try {
-      const response = await fetch("http://localhost:9876/api/add", {
+      const response = await fetch("https://recruita.onrender.com/api/add", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
